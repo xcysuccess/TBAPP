@@ -1,13 +1,13 @@
 //
-//  ViewController.h
+//  MyView.h
 //  TBAPP
 //
-//  Created by 向晨宇 on 14-4-10.
+//  Created by    on 14-4-18.
 //  Copyright (c) 2014年 Kingsoft. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface MyView : UIView
 
 @end

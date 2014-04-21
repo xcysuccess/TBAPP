@@ -13,4 +13,12 @@
 #ifdef __OBJC__
 	#import <UIKit/UIKit.h>
 	#import <Foundation/Foundation.h>
+
+#import "libinclude.h"
+#import "AppGeneral/AppEngine/TBUIKit/AdditionInclude.h"
+
+#import "AppGeneral/AppDefine/AppConfig.h"
+#import "AppGeneral/AppDefine/MacroDefine.h"
+#import "AppGeneral/AppDefine/NetworkAPI.h"
+
 #endif
